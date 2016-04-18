@@ -1,0 +1,44 @@
+# Ignore OSX-isms
+.DS_Store
+Thumbs.db
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+# Windows things
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+.dropbox
+
+# Project related items
+.pyc
+.gitattributes
+*.swp
+*.swo
+.vagrant/
+scripts/credentials.txt
+scripts/ctrl.sql
+scripts/db.sql
+#*dbconfig.php
+*.dpkg-dist
+default-ssl.conf
+scripts/root/.mysql_history
+scripts/root/.bash_history
+scripts/root/.viminfo
+scripts/lastcommit
+scripts/stage-dbconfig.sh
+scripts/dump.sql
+scripts/dump*.sql
+.idea/
+scripts/localconfig.sh
+error_log
+node_modules

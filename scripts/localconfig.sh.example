@@ -1,0 +1,7 @@
+#!/bin/bash
+# You'll need to ensure the external IP is allowed to query
+# the DB (see cPanel documentation linked in main readme.md)
+LIVE_DB_HOST=""
+LIVE_DB_USER=""
+LIVE_DB_PASS=""
+LIVE_DB_NAME=""
